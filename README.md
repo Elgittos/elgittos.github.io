@@ -1,3 +1,3 @@
-#First site on Github pages
+# First site on Github pages
 
 https://elgittos.github.io/
